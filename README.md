@@ -27,4 +27,4 @@ Condensed coding is style.css to be more inclusive with less coding required. Or
 *Added notes throughout to explain sections.
 
 ### Link:
-Dsiedlarz90.github.io
+https://dsiedlarz90.github.io/Challenge-1-Horiseon-Accessibility-and-CSS-Changes/
